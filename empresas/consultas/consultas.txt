@@ -1,0 +1,4 @@
+select usr_usuario,conteo from(select count(*)  as conteo , usr.*
+from usuarios usr
+group by usr_usuario ) as us 
+where conteo>1

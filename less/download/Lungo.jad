@@ -1,0 +1,67 @@
+RIM-COD-URL-14: Lungo-14.cod
+RIM-COD-SHA1-4: 38 a8 ab 35 3d ba bd 6a e6 64 e7 6b 68 3e 0c 9e cb c0 5d 41
+RIM-COD-URL-13: Lungo-13.cod
+RIM-COD-SHA1-3: 23 69 51 95 dd 25 b7 07 e7 d4 0a 9d 3c 38 a2 fe 41 ee 6f c0
+RIM-COD-URL-12: Lungo-12.cod
+RIM-COD-SHA1-2: de 69 ba ac df 4f b9 e6 6e b1 20 88 33 49 1d 66 7f b0 7a cf
+RIM-COD-URL-11: Lungo-11.cod
+RIM-COD-SHA1-1: 11 45 b3 e4 60 63 07 08 90 f7 65 da ee 37 9e 29 cc ac bd f0
+RIM-COD-URL-10: Lungo-10.cod
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 1141145
+MIDlet-Name: Lungo
+MIDlet-Jar-URL: Lungo.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Description: Lungo
+RIM-COD-URL-9: Lungo-9.cod
+RIM-COD-URL-8: Lungo-8.cod
+RIM-COD-URL-7: Lungo-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_web_jse_api,net_rim_bb_browser_field2_api,net_rim_xml_org,net_rim_pdap,net_rim_os,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_bbapi_invoke,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_bbapi_browser,net_rim_locationapi,net_rim_xml
+RIM-COD-URL-6: Lungo-6.cod
+RIM-COD-URL-5: Lungo-5.cod
+RIM-COD-URL-4: Lungo-4.cod
+RIM-COD-URL-3: Lungo-3.cod
+RIM-COD-URL-2: Lungo-2.cod
+RIM-COD-URL-1: Lungo-1.cod
+RIM-COD-Size-9: 33800
+RIM-COD-Size-8: 62016
+RIM-COD-Size-7: 64152
+RIM-COD-Size-6: 68408
+RIM-COD-Size-5: 62128
+RIM-COD-Size-4: 64252
+RIM-COD-Size-3: 64952
+RIM-COD-Module-Name: Lungo
+RIM-COD-Size-2: 72768
+RIM-COD-Size-1: 76696
+RIM-MIDlet-Icon-Count-1: 1
+RIM-COD-SHA1: 0a 61 f1 62 73 c0 24 6d 5e c1 6d 89 91 cc 12 c7 52 ea ed ba
+RIM-COD-Size: 62352
+RIM-COD-Size-16: 65104
+RIM-COD-Size-15: 51644
+RIM-COD-Size-14: 50908
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Size-13: 50016
+RIM-COD-Size-12: 44748
+RIM-COD-Size-11: 61248
+RIM-MIDlet-Icon-1-1: resources\____HOVER_ICON_icon.png,focused
+RIM-COD-Size-10: 58652
+MIDlet-Vendor: Unknown
+MIDlet-1: Lungo,resources/icon.png,rim:foreground;WIDGET;
+RIM-COD-SHA1-16: ba 7d c0 2e d3 8d 47 6f c3 74 c4 30 cb c0 f9 48 3f 68 3d 60
+RIM-COD-SHA1-15: f1 7c 18 ca c6 15 76 ba 53 f8 88 ce be cd d3 76 b7 e4 61 dc
+RIM-COD-SHA1-14: 1e 1c f0 0f 29 4f 8f ff 05 b6 a7 1d db a3 e4 13 dc c4 bd 9a
+RIM-COD-URL: Lungo.cod
+RIM-COD-SHA1-13: 5a 15 67 90 1d b0 01 34 6b 71 83 5f 91 db 28 b1 9c 5a ac 75
+RIM-COD-SHA1-12: 01 a3 95 f6 48 87 e8 35 9a 1e e3 9f 75 73 21 c7 60 1f 62 43
+RIM-COD-SHA1-11: 10 6c 97 9f 1b 9f a0 47 98 99 28 f1 c4 68 fc 6e 5a 69 f5 07
+RIM-COD-SHA1-10: b8 03 ea 49 82 88 57 31 9f bd 5e 62 28 90 f7 ca 40 eb 89 93
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0.0
+RIM-COD-SHA1-9: 92 6c d8 53 ba 78 12 27 9c 30 44 8d 23 7a 41 46 60 a9 04 8b
+RIM-COD-SHA1-8: fa 0f 40 44 09 26 43 c2 57 d8 3b ef 4f d4 7c f9 85 1e 2d 4d
+RIM-COD-SHA1-7: 0a c2 95 43 1b 43 d9 24 d9 d9 5c c5 10 ff 59 ae 26 2d 9b 97
+RIM-COD-URL-16: Lungo-16.cod
+RIM-COD-SHA1-6: 6c b6 5e 74 7b ab d7 eb f9 ca 20 07 2f 96 f3 7b 50 b1 32 31
+RIM-COD-Creation-Time: 1336066085
+RIM-COD-URL-15: Lungo-15.cod
+RIM-COD-SHA1-5: 64 f6 83 8e 12 a3 a5 3a cb fd f2 22 48 6f fc 46 3d 5a 05 2a

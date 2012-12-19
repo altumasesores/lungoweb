@@ -1,0 +1,10 @@
+acceso al cpanel:
+
+usuario:   mivacant
+password:  Vacante2012Navitas2012		
+
+
+acceso cpanel altum+
+
+usuario:   altumase
+password:  cqlArDjX9v

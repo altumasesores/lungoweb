@@ -1,0 +1,2 @@
+1.-volver unique el usr_usuario
+2.-quitar chetumal como prederteminado de usr_ciudad

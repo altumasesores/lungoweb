@@ -1,0 +1,10 @@
+<Files *.jad>
+    Header set Content-Disposition attachment
+</Files>
+
+# J2ME 
+AddType application/java-archive .jar 
+AddType text/vnd.sun.j2me.app-descriptor .jad 
+
+# BlackBerry 
+AddType application/vnd.rim.cod .cod 

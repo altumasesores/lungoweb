@@ -1,0 +1,11 @@
+[30-Nov-2012 17:13:06] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/lungocom/public_html/empresas/libs/php/mvc/SPDO.php:9
+Stack trace:
+#0 /home/lungocom/public_html/empresas/libs/php/mvc/SPDO.php(9): PDO->__construct('mysql:host=127....', 'root', 'mysql')
+#1 /home/lungocom/public_html/empresas/libs/php/mvc/SPDO.php(18): SPDO->__construct()
+#2 /home/lungocom/public_html/empresas/libs/php/mvc/ModelBase.php(10): SPDO::singleton()
+#3 /home/lungocom/public_html/empresas/mod_registro/controller/RegistroController.php(8): ModelBase->__construct()
+#4 /home/lungocom/public_html/empresas/mod_registro/libs/php/mvc/FrontControllerRegistro.php(46): RegistroController->model()
+#5 /home/lungocom/public_html/empresas/AnteFrontController.php(34) : eval()'d code(1): FrontControllerRegistro::main()
+#6 /home/lungocom/public_html/empresas/AnteFrontController.php(34): eval()
+#7 {main}
+  thrown in /home/lungocom/public_html/empresas/libs/php/mvc/SPDO.php on line 9
